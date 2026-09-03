@@ -1,0 +1,49 @@
+# BSc Intro Data Science - HW5 Statistical Inference
+
+A historical archive of my CS BSc coursework.
+
+## Contents
+
+Statistical inference coursework covering LLN, CLT, confidence intervals, and hypothesis-testing answer selection.
+
+## Provenance
+
+- Era: CS BSc.
+- Last recovered work: 2019 archive copy.
+- Supplied exercise material is identified separately below.
+
+## Files
+
+Template or reference material:
+
+- `assignment/HW5.ipynb`
+
+My solution notebooks:
+
+- No full authored solution notebook was recovered for this project.
+
+My submitted answers:
+
+- `results/hw5_answers.csv`
+
+## Tech Stack
+
+- Python notebooks.
+- Main Python packages: numpy, pandas, scipy, notebook.
+- Jupyter-compatible local review flow.
+
+## Dataset Notes
+
+The original course folders for several data-science assignments contained the large `ebay_boys_girls_shirts` image dataset and tarball. Those files are not tracked in this repository. The recovered notebooks reference the course download URL and recreate the dataset folder when that URL is still available.
+
+## Notes
+
+- A separate recovered `HW5-SOL.ipynb` disagrees with the submitted CSV and is not included as my solution.
+
+## Validate
+
+```bash
+python3 scripts/check_notebooks.py
+```
+
+This check verifies that notebooks parse as JSON and that the removed student identifier does not remain in tracked text files.
