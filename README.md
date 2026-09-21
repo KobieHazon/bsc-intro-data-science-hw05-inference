@@ -1,16 +1,12 @@
 # BSc Intro Data Science - HW5 Statistical Inference
 
-A historical archive of my CS BSc coursework.
+- Course: BSc Computer Science.
+- Available copy: 2019.
+- Supplied exercise material is identified separately below.
 
 ## Contents
 
 Statistical inference coursework covering LLN, CLT, confidence intervals, and hypothesis-testing answer selection.
-
-## Provenance
-
-- Era: CS BSc.
-- Last recovered work: 2019 archive copy.
-- Supplied exercise material is identified separately below.
 
 ## Files
 
