@@ -22,10 +22,6 @@ My submitted answers:
 - Main Python packages: numpy, pandas, scipy, notebook.
 - Jupyter-compatible local review flow.
 
-## Validate
+## Exercise format
 
-```bash
-python3 scripts/check_notebooks.py
-```
-
-The notebook contains incomplete exercise cells; the submitted answers are in the CSV. The check validates file structure, not a completed notebook execution.
+This is a multiple-choice theory assignment. The notebook contains the questions and answer-entry placeholders, and my submitted choices are in `results/hw5_answers.csv`; there is no computational solution program to run.
